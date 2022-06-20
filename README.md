@@ -8,5 +8,5 @@ El código está formado por 4 carpetas:
  
 - utils: contiene dos cuadernos utilizados para calcular la media, std y pesos ya incializados en main_code
 - models: contiene los modelos previamente entrenados, con los que se han obtenido los resultados. 
-- 
+
 # LA BASE DE DATOS AFFECTNET (.tar) DEBE SER SOLICITADA A LA UNIVERSIDAD DE DENVER
