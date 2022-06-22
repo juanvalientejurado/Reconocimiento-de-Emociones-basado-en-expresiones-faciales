@@ -10,3 +10,6 @@ El código está formado por 2 carpetas:
 
 
 # LA BASE DE DATOS AFFECTNET (.tar) DEBE SER SOLICITADA A LA UNIVERSIDAD DE DENVER
+
+Para poder ejecutarlo es necesario disponer de los archivos .tar. Contactar con el desarrollador a juanvalientejurado@gmail.com. 
+Los modelos entrenados con los que se han obtenido resultados quedan reservados
